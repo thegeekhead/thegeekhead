@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+#### Thanks for visiting :heart:
+![VisitorCount](https://profile-counter.glitch.me/thegeekhead/count.svg)
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegeekhead&theme=radical" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=thegeekhead&&show_icons=true&theme=radical" alt="My Github Stats">
