@@ -3,5 +3,5 @@
 
 - 👋 Hi, I’m Anshansh Suman.
 - 🌱 Just being a core learner.
-- 📱 I can build apps for Android.
+- 📱 I can build apps for Android working on Web Development.
 - 📸 I shoot at times.
