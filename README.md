@@ -2,6 +2,6 @@
 
 
 - 👋 Hi, I’m Anshansh Suman.
-- 🌱 Just being a core learner.
-- 📱 I can build apps for Android working on Web Development.
+- 🌱 Just being a core learner, curretly trying my hands on Full Stack Development.
+- 📱 I can build apps for Android.
 - 📸 I shoot at times.
